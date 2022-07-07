@@ -1,0 +1,26 @@
+{
+  "name": "bigchaindb-js-driver-api",
+  "version": "1.0.0",
+  "description": "A simplified package for connecting bigchaindb with api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaimanza/bigchaindb-js-driver-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaimanza/bigchaindb-js-driver-api/issues"
+  },
+  "homepage": "https://github.com/zaimanza/bigchaindb-js-driver-api#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
