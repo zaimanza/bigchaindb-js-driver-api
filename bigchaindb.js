@@ -1,4 +1,4 @@
-
+const axios = require('axios').default;
 
 var API_URL = ""
 
